@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    border: none;
+}
+img{
+    width: 5%;
+    padding-top: 30px ;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+}
+.input{
+    background-color: rgb(226, 237, 244);
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: gray;
+}
+.submit{
+    background-color: rgb(143, 208, 250);
+        width: 500px;
+        height: 30px;
+        border: none;
+        border-radius: 15px;
+        color: white;
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+    color: gray;
+}
